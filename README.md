@@ -1,2 +1,0 @@
-# TriangleBloke.github.io
-Gregsite
